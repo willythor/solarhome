@@ -2,6 +2,7 @@
 /********************
         GENERAL
 ********************/
+
 .wrapper{
     width: 90%;
     max-width: 1280px;
@@ -16,7 +17,7 @@
         LANDING
 ********************/
 
-.landing{
+#landing{
     padding-top: 30vh;
     text-align: center;
     height:100vh;
@@ -41,15 +42,21 @@
 }
 
 .down-arrow{
-    position:absolute;
-    bottom:5vh;
-    width:10vw;
-    left:45vw;
+    position: absolute;
+    bottom: 5vh;
+    width: 4vw;
+    height: 5vw;
+    left: 48vw;
+    opacity: .7;
 }
 
 /********************
         HERO
 ********************/
+
+#hero{
+
+}
 
 
 
