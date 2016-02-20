@@ -1,0 +1,60 @@
+
+/********************
+        GENERAL
+********************/
+.wrapper{
+    width: 90%;
+    max-width: 1280px;
+}
+
+.debug{
+    background-color:red;
+}
+
+
+/********************
+        LANDING
+********************/
+
+.landing{
+    padding-top: 30vh;
+    text-align: center;
+    height:100vh;
+}
+
+.landing-text{
+    /*border: 5px #AAA solid;*/
+    display: inline-block;
+    padding:40px 60px;
+    /*border-radius: 20px;*/
+}
+
+.big-text{
+    font-size: 8em;
+    margin-bottom: -40px;
+    color:#424242;
+}
+
+.small-text{
+    font-size:2.5rem;
+    color: #AAA;
+}
+
+.down-arrow{
+    position:absolute;
+    bottom:5vh;
+    width:10vw;
+    left:45vw;
+}
+
+/********************
+        HERO
+********************/
+
+
+
+
+
+/********************
+        FOOTER
+********************/
